@@ -19,7 +19,7 @@ print(has_pet);
 
 #Task 2. Change the value of your city variable to another city and print it
 
-age = 36 # Happy Birthday
+age = 29 # Happy Birthday
 print("\nNew age after birthday:", age)
 
 # Task 3.Using Variables in Expressions
@@ -43,3 +43,15 @@ print("kids age in 5 years (assuming starting age = num_kid):", kid_age_in_5_yea
 print("Type of city:", type(City))
 print("Type of num_kids:", type(num_kid))
 print("Type of has_pet:", type(has_pet))
+
+# 5. String Concatenation Using Variables
+#greeting = "Hello, my name is " + name + " and I live in " + city + "."
+#print("\n" + greeting)
+
+
+# Task 5: Create a sentence introducing yourself using your variables and print it
+
+
+
+my_intro = f"My name is {name}, I am {age} years old, and I live in {City}."
+print(my_intro)
