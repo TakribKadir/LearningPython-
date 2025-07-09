@@ -29,3 +29,17 @@ print("\nNew age after birthday:", age)
 #  Task 3: Calculate the age your kids will be in 5 years and print
 kid_age_in_5_years = num_kid + 5
 print("kids age in 5 years (assuming starting age = num_kid):", kid_age_in_5_years);
+
+
+
+
+# 4. Data Types Check
+#print("\nType of name:", type(name))
+#print("Type of age:", type(age))
+#print("Type of height:", type(height))
+#print("Type of is_student:", type(is_student))
+
+# Task 4: Print the data type of your city, num_kids, and has_pet variables
+print("Type of city:", type(City))
+print("Type of num_kids:", type(num_kid))
+print("Type of has_pet:", type(has_pet))
