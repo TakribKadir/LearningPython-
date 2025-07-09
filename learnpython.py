@@ -22,4 +22,10 @@ print(has_pet);
 age = 36 # Happy Birthday
 print("\nNew age after birthday:", age)
 
-# Task 3. 
+# Task 3.Using Variables in Expressions
+# year_born = 2025 - age
+# print("\nYear born:", year_born)
+
+#  Task 3: Calculate the age your kids will be in 5 years and print
+kid_age_in_5_years = num_kid + 5
+print("kids age in 5 years (assuming starting age = num_kid):", kid_age_in_5_years);
