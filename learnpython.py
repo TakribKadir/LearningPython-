@@ -7,7 +7,7 @@ print(name);
 print(age);
 print(height);
 print(is_student);
-# Task 1.
+# Task 1. Create variables for your city (string), number of kids (int), and has_pet (boolean)
 City = "Vancouver"
 num_kid = 0
 has_pet = False
