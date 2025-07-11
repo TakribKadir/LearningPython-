@@ -13,3 +13,11 @@ print ("Last fruit:", fruits[-1])
 # Task 2: Print the second and third fruits using slicing
 print ("second and third fruits:", fruits[1:3])
 
+#Modifying Elements
+# Changing banana to blueberry
+fruits[1]= "blueberry"
+print ("After modification:", fruits)
+
+#Task 3: Change "cherry" to "pineapple"
+fruits
+
