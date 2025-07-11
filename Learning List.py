@@ -19,5 +19,19 @@ fruits[1]= "blueberry"
 print ("After modification:", fruits)
 
 #Task 3: Change "cherry" to "pineapple"
-fruits
+#fruits[2] = "pineapple"
+#print("After Changing cherry to pineapple:", fruits[2])
+
+#Alternative way
+
+index_cherry = fruits.index("cherry")
+fruits[index_cherry] = "pineapple"
+print("After changing 'cherry' to 'pineapple':", fruits)
+
+# Task 4: Add "lemon" at the beginning of the list
+
+fruits.insert(0, "lemon")
+print ("After adding 'lemon' at beginning:", fruits)
+
+# Removing Items
 
