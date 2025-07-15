@@ -1,9 +1,10 @@
 #1. Creating Your First Function
-def greet():
-    print("Hello! Welcome to Python functions.")
+#def greet():
+   # print("Hello! Welcome to Python functions.")
 
 # Call the function
-greet()
+def greet():
+    print("without practice you will forgot everything you learn about python an sql. remember small steps can cover a long distance")
 
 # Task 1: Create a function named `welcome_user` that prints "Welcome to ACA!"
 def welcome_user():
